@@ -190,6 +190,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Valenzuela City, Metro Manila | - | [GitHub](https://github.com/JeremyDFabian/bettervalenzuela) | [Facebook](https://www.facebook.com/betterval.org) | 🟡 Work in Progress | [@JeremyDFabian](https://github.com/JeremyDFabian) |
 | Villasis, Pangasinan | - | [GitHub](https://github.com/Xerman09/bettervillasis) | - | 🔵 Planned | [@Xerman09](https://github.com/Xerman09) |
 | Zamboanga City, Zamboanga del Sur | [betterzamboangacity.vercel.app](https://betterzamboangacity.vercel.app) | [GitHub](https://github.com/RALPH22222/betterzamboangacity) | [Facebook](https://facebook.com/betterzamboangacity.org) | 🟡 Work in Progress | [@RALPH22222](https://github.com/RALPH22222) |
+| Alcala, Pangasinan | [betteralcala.pages.dev](https://betteralcala.pages.dev) | [GitHub](https://github.com/melmarj0nes23/betteralcala) | - | 🟢 Active | [@melmarj0nes23](https://github.com/melmarj0nes23) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
