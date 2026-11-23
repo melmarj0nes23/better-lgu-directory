@@ -80,7 +80,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | General Trias City, Cavite | [bettergeneraltrias.org](https://www.bettergeneraltrias.org/) | [GitHub](https://github.com/kenhehe/betterGeneraltrias) | [Facebook](https://www.facebook.com/betterGeneralTrias) | 🟢 Active | [@kenhehe](https://github.com/kenhehe) |
 | Hermosa, Bataan | [betterhermosa.org](https://betterhermosa.org) | [GitHub](https://github.com/BetterHermosa/betterhermosa) | - | 🟢 Active | [@ialexies](https://github.com/ialexies) |
 | Hilongos, Leyte | - | [GitHub](https://github.com/rolpppp/betterhilongos) | - | 🟡 Work in Progress | [@rolpppp](https://github.com/rolpppp) |
-| Iligan City, Lanao del Norte | [betteriligancity.org](https://betteriligancity.org/) | [GitHub](https://github.com/KishonShrill/BetterIligan) | [Facebook](https://www.facebook.com/BetterIligan.org/) | 🟢 Active | [@KishonShrill](https://github.com/KishonShrill), [@Vantalim12](https://github.com/Vantalim12) |
+| Iligan City, Lanao del Norte | [betteriligancity.org](https://betteriligancity.org/) | [GitHub](https://github.com/KishonShrill/BetterIligan) | [Facebook](https://www.facebook.com/BetterIliganCity.org) | 🟢 Active | [@KishonShrill](https://github.com/KishonShrill) |
 | Ilocos Norte Province | - | [GitHub](https://github.com/russellraed/betterilocosnorte) | - | 🟡 Work in Progress | [@russellraed](https://github.com/russellraed) |
 | Inabanga, Bohol | [betterinabanga.vercel.app](https://betterinabanga.vercel.app) | [GitHub](https://github.com/gerardosocias29/betterinabanga) | - | 🟡 Work in Progress | [@gerardosocias29](https://github.com/gerardosocias29) |
 | Indang, Cavite | [betterindang.org](https://betterindang.org) | [GitHub](https://github.com/michaustriaqa/betterindang) | [Facebook](https://facebook.com/betterindang) | 🟢 Active | [@michaustriaqa](https://github.com/michaustriaqa) |
@@ -103,7 +103,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Llanera, Nueva Ecija | - | [GitHub](https://github.com/heyerikfelipe/BetterLlanera) | - | 🔵 Planned | [@heyerikfelipe](https://github.com/heyerikfelipe) |
 | Lopez, Quezon | - | [GitHub](https://github.com/StanleyPangaruy/betterlopez) | - | 🟡 Work in Progress | [@StanleyPangaruy](https://github.com/StanleyPangaruy) |
 | Los Baños, Laguna | [betterlb.org](https://betterlb.org) | [GitHub](https://github.com/BetterLosBanos/betterlb) | [Facebook](https://www.facebook.com/BetterLB.org) | 🟢 Active | [@miconficker](https://github.com/miconficker) |
-| Lucena City, Quezon | - | [GitHub](https://github.com/RyannKim327/BetterLucenaCity) | - | 🟡 Work in Progress | [@RyannKim327](https://github.com/RyannKim327), [@marrrkkk](https://github.com/marrrkkk) |
+| Lucena City, Quezon | [better-lucena-city.vercel.app](https://better-lucena-city.vercel.app) | [GitHub](https://github.com/RyannKim327/BetterLucenaCity) | [Facebook](https://facebook.com/BetterLucenacity.org) | 🟡 Work in Progress | [@RyannKim327](https://github.com/RyannKim327), [@marrrkkk](https://github.com/marrrkkk) |
 | Lumban, Laguna | - | [GitHub](https://github.com/avoabadier/betterlumban) | - | 🔵 Planned | [@avoabadier](https://github.com/avoabadier) |
 | Maasin City, Southern Leyte | [bettermaasin.netlify.app](https://bettermaasin.netlify.app) | [GitHub](https://github.com/bettermaasin/BetterMaasin) | [Facebook](https://www.facebook.com/bettermaasin.org) | 🟡 Work in Progress | [@derkandre](https://github.com/derkandre) |
 | Maddela, Quirino | [bettermaddela.vercel.app](https://bettermaddela.vercel.app/) | [GitHub](https://github.com/Hendrizzzz/bettermaddela) | - | 🟢 Active | [@Hendrizzzz](https://github.com/Hendrizzzz) |
@@ -213,12 +213,12 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 
 | Tag                  | Meaning                                                                            |
 |----------------------|------------------------------------------------------------------------------------|
-| ⚠️ Stale             | A `🔵 Planned` entry with no directory activity for over 30 days                   |
-| 🤝 Open for Adoption | Anyone may take the entry on — as a takeover, or alongside the original maintainer |
+| ⚠️ Stale             | A `🔵 Planned` entry with no directory activity for over 30 days, or a `🟡 Work in Progress` entry whose check-ins went unanswered |
+| 🤝 Open for Adoption | Anyone may take the entry on — as a takeover, or alongside the original maintainer. Appears on stale entries and on `🔴 Unmaintained` ones |
 
-**Adopting a stale entry?** Open a PR that updates the Maintainer/s column and removes both tags. The status can stay `🔵 Planned` — change it only when the work actually starts. Any discussion happens in that PR.
+**Adopting an entry?** Open a PR that updates the Maintainer/s column and removes the tags. A stale entry keeps its status — a `🔵 Planned` one changes only when the work actually starts. An `🔴 Unmaintained` entry takes the status that matches reality (`🟡 Work in Progress` or `🟢 Active`). Any discussion happens in that PR.
 
-Tags are applied by the repository maintainers during periodic reviews, never automatically — time since the last update is a prompt to look, not the only thing that decides it.
+Tags are applied by Directory Maintainers during periodic reviews, never automatically — time since the last update is a prompt to look, not the only thing that decides it. Work in Progress entries are followed up in [check-ins](CONTRIBUTING.md#check-ins) and go stale only if those go unanswered. Only `🟢 Active` entries become `🔴 Unmaintained`.
 
 ---
 
@@ -241,9 +241,12 @@ These templates are provided by the community to help you get started quickly.
 Ready to build a transparency portal for your LGU? Read the full guide: **[How to Start Your Better LGU Portal](GUIDE.md)**
 
 The short version:
-1. **Register your intent** — open a PR to add your LGU with a `🔵 Planned` status
-2. **Build** — pick a [community template](TEMPLATES.md), set up your `better[lguname]` repo, gather public data, and deploy to a `better[lguname].org` domain
-3. **Launch and maintain** — update your entry to `🟢 Active` once live, and keep the data current
+1. **Search the directory first** — if your LGU is already listed, contribute to that portal instead of starting a new one ([GUIDE.md, Step 1](GUIDE.md#step-1--search-the-directory-first))
+2. **Register your intent** — open a PR to add your LGU with a `🔵 Planned` status
+3. **Build** — pick a [community template](TEMPLATES.md), set up your `better[lguname]` repo, gather public data, and deploy to a `better[lguname].org` domain
+4. **Launch and maintain** — update your entry to `🟢 Active` once live, and keep the data current
+
+> **The directory coordinates; it doesn't own.** Registration earns you first say, not exclusive rights. Shipping and maintaining keep your entry. See [CONTRIBUTING.md](CONTRIBUTING.md) for the rules.
 
 ---
 
